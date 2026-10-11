@@ -1,0 +1,1217 @@
+{
+  "date": "2026-10-11",
+  "files": [
+    {
+      "path": "项目要求整理.md",
+      "bytes": 5509,
+      "sha256": "eee0d6d9f893f17b1c5dc74bcbfd536055b265824f0be5c0dc430b5582a3e388",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音方向调研-2026-10-10.md",
+      "bytes": 7568,
+      "sha256": "342b63be449d229566ba137653d7d7d5915dbe6b90bf8a174e96cd56c535ad1e",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "观猹业务-项目与脚本完整汇总-2026-10-11.md",
+      "bytes": 48021,
+      "sha256": "948d089193f1843025dc4a4dae181cb2c6643f75ac536ecda4bb5cfc3e8f0319",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/核对-18-18.json",
+      "bytes": 145,
+      "sha256": "a8acb7a2dc844361618f9ec5c3544055579cea9faabebffeade3e97d60931e7c",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/核对-12-12.json",
+      "bytes": 186,
+      "sha256": "ba88e10cf02d88f08b169c5ec7f17d538a94bb4a54826243eeb68f42fdbfad8a",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/核对-6-6.json",
+      "bytes": 271,
+      "sha256": "3a18a2021deb0bc01e007785581ca004093eb337a83c1d142a2c0ae6f27c8e3c",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/核对-13-13.json",
+      "bytes": 369,
+      "sha256": "fef4c70026e7e026fa7d5e987e6111e17b1eb2904fa3b31b911c27a6d7f8ee22",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/观猹业务介绍-女声慢速0.9x.mp3",
+      "bytes": 5403404,
+      "sha256": "0992c6350aa649c56758cfcd891bc80cde181b6a3396d05f06554515f6e86aab",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/生成记录.json",
+      "bytes": 20991,
+      "sha256": "f82d405f6c199752ddf0f516659143440cf7721879381a3716ce068e3c5b96b4",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/核对-9-9.json",
+      "bytes": 359,
+      "sha256": "fceadf8ac4b6312077320ce8fe5d587e4afe04e41a1741273ee7f641c85a2100",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/核对-5-5.json",
+      "bytes": 385,
+      "sha256": "1de506a18388e564bb9ae76f07d054569171113de9e8227bc12cc44ddc7e5e88",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/核对-16-16.json",
+      "bytes": 228,
+      "sha256": "7687b4f292ec03b355a2e440c79abafc140ceef338a5754d8abea80c68c0622f",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/核对-17-17.json",
+      "bytes": 282,
+      "sha256": "68e97f6916cf8c0fbef6981039de8d6544e009417e6d82ff81dc606f16955771",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/核对-3-3.json",
+      "bytes": 295,
+      "sha256": "375f2f02d07ce6bbcb5aab23f7e4ef993034e4f73e7cc4de1a17457e690ce8dc",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/音频核对.json",
+      "bytes": 5937,
+      "sha256": "9ef9ef91898f66411899483b52c65b0123875af149cc99ec7357ed52e7807bf8",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/观猹业务介绍-完整女声试听-v1.mp3",
+      "bytes": 4863404,
+      "sha256": "cc62f57a42b702219c3ea17b40039c391274fcce5a8b9cdd46b417442d25d2cc",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/观猹业务介绍-女声慢速0.9x.wav",
+      "bytes": 12964296,
+      "sha256": "81524021e92fdaeb1f385d1c61d363f337566a63bf9afe0b4402c4d32e5233a4",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/观猹业务介绍-女声慢速0.9x.json",
+      "bytes": 263,
+      "sha256": "154a8b2da31778bc5b191dfbed1b5170eac2611bbaba01d62fdc3a2e5efa6f93",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/试听说明.md",
+      "bytes": 1076,
+      "sha256": "17ff781e806779ef8494d6c532c58b3a2d8575028e9dcb3319339327b3ba5213",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/核对-1-1.json",
+      "bytes": 180,
+      "sha256": "76f91ae694936ca43a58f2b8b3e22fa3b60621ffa8a3224934249cdf898e4f14",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/核对-11-11.json",
+      "bytes": 255,
+      "sha256": "92a22b1400f02dd8e3a79accd5168daff654a27057f3907243bafa3fa8faa1c2",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/核对-10-10.json",
+      "bytes": 328,
+      "sha256": "d9a4d563a342cf822ddd89ddc54d0c228aa98c4a0c389edc8a728125d1f5ed5b",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/核对-7-7.json",
+      "bytes": 393,
+      "sha256": "61c5df32ee6bd6e7f4a43aba48acd82a2877aec8f61df3bcf40b8d68cc58814e",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/配音原文.txt",
+      "bytes": 3461,
+      "sha256": "5ddbe00ff6dc24f1d5e82556aa9eff0bd432ecd1c7e8ff93fa6ecce8d5077d01",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/核对-8-8.json",
+      "bytes": 254,
+      "sha256": "9923cead53ff079a54cc4d17dc5344b4210875bae4fe3fe25d4abefd2cf47abb",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/核对-15-15.json",
+      "bytes": 213,
+      "sha256": "046522a665e9054904851c725ff55627eda0d56fa9a9b669228f516c1e49238c",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/核对-4-4.json",
+      "bytes": 339,
+      "sha256": "208a04f0ed7566a35bfe2d8c52c58d4490f766a3d8cab6a1c1507eec42bad349",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/观猹业务介绍-完整女声试听-v1.wav",
+      "bytes": 11668364,
+      "sha256": "aed86ddb8ce8c2976054af60ad9f7d1c28ef250960e22bdd58ef5078ef031d7c",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/核对-14-14.json",
+      "bytes": 184,
+      "sha256": "5894d9d3a3be2686f44181087f07d0fff5d411ace11cafa240456c509c732a8f",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/核对-2-2.json",
+      "bytes": 355,
+      "sha256": "5df65d5484d5acea78547dfd540cb31b2caedf370e5c541ffe09eeb7b752544d",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/02.wav",
+      "bytes": 852046,
+      "sha256": "ed1f6d42afed116850752bff5c0c5d7b5b859978bc528100fd1c1509e5d1b0a0",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/分段音频/16.wav",
+      "bytes": 514126,
+      "sha256": "e6469484e80f1ec14b76950541da14cd8f740de16e3e8e4a0aa9c5cacfa0f53a",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/分段音频/17.wav",
+      "bytes": 635086,
+      "sha256": "4442d9ccabc8646b6387db594826ed81fb466a84a0fbfbdd6af92644a75bf134",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/分段音频/03.wav",
+      "bytes": 617802,
+      "sha256": "684a7b50b6c9ec49b47667854f2883cbb590e3960e8b90e44789f7e3c48278b8",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/分段音频/16.json",
+      "bytes": 985,
+      "sha256": "44a41cab60e80baa6019a182aeef19b350d0f50eb619d4fd66e43975cd539f9a",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/15.wav",
+      "bytes": 372046,
+      "sha256": "84376866e4f7b8494f726fe6dd4f5a7e2cd5893fc8ab052dabef61839e98c883",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/分段音频/01.wav",
+      "bytes": 277964,
+      "sha256": "6b93a079793451c2f4e3bb2bb62723c49562cf27450764a216df83f6358aa585",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/分段音频/14.wav",
+      "bytes": 285646,
+      "sha256": "9a45a4626c1ceb4e85b1ab7c9d40ba5a7a9f54576ddc33077cccdedc6fd64766",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/分段音频/10.wav",
+      "bytes": 790606,
+      "sha256": "33dddd7a0e36d7cde95ae13a46938c344d0a34e5cdad3a557a077381d86f2678",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/分段音频/04.wav",
+      "bytes": 769486,
+      "sha256": "faeca0a536de1d8de1c7439a0386a392596465d3e26627bcb54053f8a687df25",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/分段音频/05.wav",
+      "bytes": 1045964,
+      "sha256": "11276afcf408f8cb1826fa8c9c97bdab995d6a9f0fa355a6498c9cf42c53c97a",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/分段音频/01.json",
+      "bytes": 915,
+      "sha256": "a4428d94bcde9711774ec902ef85c53e36dccc05003e3f2cd3c158c27057c667",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/11.wav",
+      "bytes": 481484,
+      "sha256": "6312ce70de5fcb6f26b96b04d28a86ca70b5b7bdfdd21de58f2c78dbcb25e540",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/分段音频/17.json",
+      "bytes": 1016,
+      "sha256": "88367a7705493445bb36f639916025f10e8be4b161ec253a3cab89f86fe48ad4",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/07.wav",
+      "bytes": 1115088,
+      "sha256": "94fbac0c7da88916b5b751803402da217f10a953205b5f927a6e1de0994a0296",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/分段音频/13.wav",
+      "bytes": 946130,
+      "sha256": "4c5eefa423b51de46b2925e22c8bd1ffdda8f870994bb63b9576b1d221e49ad0",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/分段音频/12.wav",
+      "bytes": 347084,
+      "sha256": "1c80f921ad132789494f773bd00232f6ff80b45ea173814373c8bdb3b8db6505",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/分段音频/06.wav",
+      "bytes": 667724,
+      "sha256": "888021ca1fd1a2bbc6825b281c135679f0ba4bc12358ef96237432654b2343bc",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/分段音频/10.json",
+      "bytes": 1066,
+      "sha256": "b28af1cea7af000dc8f2077a0b09dc239472b397a95198cba96cefd1b078f962",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/06.json",
+      "bytes": 1015,
+      "sha256": "630228149d07075098efc08d7d2720cc73f4576bf1984d14ee854fc94c34a601",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/07.json",
+      "bytes": 1153,
+      "sha256": "99aff6cd3a4e595c244bbc453e93225f6e2537953b8fcade2d802d446340d3fe",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/11.json",
+      "bytes": 1003,
+      "sha256": "0c8b83417ed0ead4ac09a0b934885e45e6e626bebc695af6479b5b0dc7a6b537",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/04.json",
+      "bytes": 1071,
+      "sha256": "9c669cccaf28f98a9668329ac7db8560f8853f1e239c3d1ea10bb096681a6260",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/12.json",
+      "bytes": 921,
+      "sha256": "e517bcab40d2b8c73f11c6edc26b1ad6245232a67af66419f7aa925e2c98c582",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/08.json",
+      "bytes": 989,
+      "sha256": "356353e5d2795206022a4b64ee1444f5d1ba7bb522af33fe534aa763bcdc5e02",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/09.json",
+      "bytes": 1096,
+      "sha256": "feb2a26e9e611e100f22368ea4b1c15f9f8e8914ec45fbd96659fd3dcd1e2298",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/13.json",
+      "bytes": 1114,
+      "sha256": "9a3524795fd1e93c4ac6abd1f87092d24e37831cec114684680689e45cccac2c",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/05.json",
+      "bytes": 1129,
+      "sha256": "2db1877b9a5fc9fa76e623ac3825f3e68da484ff4b3a5c5ec1ae155cdae4373e",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/18.json",
+      "bytes": 881,
+      "sha256": "19743f2070a63cf112ccbc50ff45599449138d68ca8f55d0e70f19cf9137182b",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/08.wav",
+      "bytes": 656206,
+      "sha256": "888e627d155e9adb860d24961e77c1bdfa67f66c526e076a0689d3c08b5e9e93",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/分段音频/09.wav",
+      "bytes": 934606,
+      "sha256": "3a514d38448dae6366f96db253d1b7623a084264e5cd3f28a42825e5d5819a8e",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/v1/分段音频/02.json",
+      "bytes": 1119,
+      "sha256": "0096baf9adbef4bf47f36ea62d043e993fa8b19a419b57efcae14b5da583c681",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/14.json",
+      "bytes": 915,
+      "sha256": "401eedf3d7904dae3575093dc4e663d3e811ac7bbc3d097fa4a9f7890d74cd8a",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/15.json",
+      "bytes": 941,
+      "sha256": "09f135f86dbe224b06e47e2f1d133c1e89673de77fcd0ef39e0131200b6b7719",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/03.json",
+      "bytes": 1036,
+      "sha256": "b04051d9c1cda4151903d9da2b5295992f0a266e11c598c4a73dc557a19aa793",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/v1/分段音频/18.wav",
+      "bytes": 181964,
+      "sha256": "16f661624df6d75f2872ea5b19a5c24f4bb0d0d8fd0dd3f057e51b0a33acde39",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/三方向六声音-r1/试听.html",
+      "bytes": 4479,
+      "sha256": "385c3e387b097c118be25726171016287d1572aeb5e1f3b323913a806561ab4a",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/三方向六声音-r1/生成记录.json",
+      "bytes": 8653,
+      "sha256": "6eb9de5b738c7366eb18d0912babbe9a849bf5d30ea5c67d0d2a36f007754bdb",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/三方向六声音-r1/转写检查.json",
+      "bytes": 2685,
+      "sha256": "af9388bf22d69f054f70f794708116c39d44398c9bf73a82f40f55ed634acda3",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/三方向六声音-r1/音频技术检查.json",
+      "bytes": 941,
+      "sha256": "410e92fab0fff8f252be97a19ed7b119d202cb19edc334f821f1b24320cc09c8",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/三方向六声音-r1/试听说明.md",
+      "bytes": 2663,
+      "sha256": "29b9acf40c5a1e75d9445dd522e943e969f367af605cafa4eb4686f4d132070e",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/三方向六声音-r1/验收状态.json",
+      "bytes": 553,
+      "sha256": "00f11f95d7fefde8fb508e68bc8b0db71341955bd9b02c8db07be96ad9cb25e8",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/三方向六声音-r1/原始干声/A2.wav",
+      "bytes": 1129004,
+      "sha256": "f7819301c2b31e4111f785fe7c3ca7491dca95dcffff151e3160fdbd458c1242",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/三方向六声音-r1/原始干声/A1.wav",
+      "bytes": 1251884,
+      "sha256": "65fbc89961aa3e5f34fa842131d5082a527a10aa266fb329744c09dcae6b5699",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/三方向六声音-r1/原始干声/C2.wav",
+      "bytes": 1082924,
+      "sha256": "4a6fd47e941bf8d7992c4792662dd451c48a3a99a64d77f30e707ffae58b3661",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/三方向六声音-r1/原始干声/C1.wav",
+      "bytes": 1236524,
+      "sha256": "f631724e64944fb8874b97ca53725f2790b0ee4bb127f16926ec74cc41a36f7f",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/三方向六声音-r1/原始干声/B1.wav",
+      "bytes": 1079084,
+      "sha256": "64a5d38199a7132b9cca7639e17e3700dc0313cff4df5353c4169d4fa539d20a",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/三方向六声音-r1/原始干声/B2.wav",
+      "bytes": 1013804,
+      "sha256": "2e6c1fbed58db759680a8b6a9e856c7ed721a65c17310f28ca99ac8d0cef1b94",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/三方向六声音-r1/试听音频/A2-松弛搭子·清爽青年女声.mp3",
+      "bytes": 471884,
+      "sha256": "c2eab1a37ba6c7db815a01f623efc91dc58cf4039dd6a121cd992d64755a849a",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/三方向六声音-r1/试听音频/C1-软乎的猹·圆糯毛绒感.mp3",
+      "bytes": 517004,
+      "sha256": "6160260a7195de81fcf72574ea0074dcfe22c951bffa9418b1db9c3fdca64819",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/三方向六声音-r1/试听音频/C2-软乎的猹·清亮灵巧感.mp3",
+      "bytes": 452684,
+      "sha256": "eb1c7e05567ebdf34060272b1691d95e96557e23635ff81ae9a0c1c8b7769121",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/三方向六声音-r1/试听音频/A1-松弛搭子·温暖青年男声.mp3",
+      "bytes": 523244,
+      "sha256": "8decd5b3cb2cc72c4e0ad9a2ada7f8ae0155c0d847176904579f6b3e570d083c",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/三方向六声音-r1/试听音频/B1-社区向导·明亮机灵女声.mp3",
+      "bytes": 451244,
+      "sha256": "5c0677da76cc8003fe2ac7770ba27cbb134e58f66f9082c6b73fe2ce25b3fe06",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/三方向六声音-r1/试听音频/B2-社区向导·轻快机灵男声.mp3",
+      "bytes": 423884,
+      "sha256": "f888d1a71a9566806ec46ef9a302cee01efafeed68eae2d97c24d74ead31edf7",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/猹猹男声-r2/听感核对-C3.json",
+      "bytes": 492,
+      "sha256": "1893fc7ce6e346434aec174aacfae4b30c930578e15a925b90afa47049e723c4",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/猹猹男声-r2/反馈与调整.json",
+      "bytes": 370,
+      "sha256": "f2986abdd85eb63181423c32ad992dbff0af8cace9d3955ad3168c866f1ae2c1",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/猹猹男声-r2/试听.html",
+      "bytes": 2542,
+      "sha256": "6ff1ab52ec15150e3d84a4e6d54b56370dcb0ed7fbb35c4d033d48c6bfab1d0d",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/猹猹男声-r2/生成记录.json",
+      "bytes": 4167,
+      "sha256": "2780725ad1858d8a8b675f34d7eaefd5f9efcc98356c93b0528542ce6587ed66",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/猹猹男声-r2/转写检查.json",
+      "bytes": 905,
+      "sha256": "709168227e5c345a568db14c9a2b0aa3c1ffe519f3dd768bd2456c1bdeaf9ea4",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/猹猹男声-r2/听感核对-C4.json",
+      "bytes": 549,
+      "sha256": "56348ac74d2b195c02703ae9fd2952a67a1d0ef40af456e028cbe4886a78eff7",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/猹猹男声-r2/音频技术检查.json",
+      "bytes": 314,
+      "sha256": "43789f938a43973551fb9abcfd62f0a12d3e5d134dec5f0d93c906186efc1842",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/猹猹男声-r2/试听说明.md",
+      "bytes": 2149,
+      "sha256": "6bfe613a0eb79c001037816a71ab0ec28dbc3af627945876be2bb957850494b0",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/猹猹男声-r2/验收状态.json",
+      "bytes": 466,
+      "sha256": "a98f9a401ff1e1dbf245d91eea2a92ad616959a9c34a21048e50620e848ef6c6",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "配音试听/猹猹男声-r2/原始干声/C3.wav",
+      "bytes": 1190444,
+      "sha256": "e3ad2bf4b9478dcfe4bd7b9efd9695d1840e36b4a8cf1d2b93dd5dc6bc633dd3",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/猹猹男声-r2/原始干声/C4.wav",
+      "bytes": 1113644,
+      "sha256": "3df919ad14781c5064f65e3d1bfe5a9840edc240f93020670fca76a11df467d3",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/猹猹男声-r2/试听音频/C3-猹猹男声·温厚软糯.mp3",
+      "bytes": 497804,
+      "sha256": "cec2cb3d39b45022ae49dbe7b6e2752060c30f114d103472440bf62e915dbe79",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "配音试听/猹猹男声-r2/试听音频/C4-猹猹男声·清亮机灵.mp3",
+      "bytes": 465644,
+      "sha256": "06bbd56b03eb8419fcc5a894bc7f70d5819a8b37e5801fb1f619c4ad8d8258cf",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/视觉确认方案.md",
+      "bytes": 7134,
+      "sha256": "d929ee6b97cd0eed9fe75ca44b873c7920ef93fa805c71818540320e0be7f3b7",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/干净3D风格系列-r1/04-低多边形.png",
+      "bytes": 1558650,
+      "sha256": "a8d724bac06d4b639f03069814a5506ee555670e091d7c45cdb7fbe84d7ded77",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/干净3D风格系列-r1/生成记录.json",
+      "bytes": 5762,
+      "sha256": "cb26d6a62da82874878b8d44c847da24413e256bcd3019cb044796503d63b685",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/干净3D风格系列-r1/08-自然光建筑.png",
+      "bytes": 1687410,
+      "sha256": "9761173f943102948527effc76b481a401331e7b091693e0ea1e173a7b8a62a1",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/干净3D风格系列-r1/06-高对比雕塑.png",
+      "bytes": 1760946,
+      "sha256": "8a9c178f2a31878f9b131d93b24d930014c0112f831f8a5bd066f8ccf3ac259f",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/干净3D风格系列-r1/风格总览.md",
+      "bytes": 4339,
+      "sha256": "619e9e65c56ef286cd065c76546bfa51167c7536eee5315b753c566a8dc80fd9",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/干净3D风格系列-r1/01-极简哑光.png",
+      "bytes": 1688801,
+      "sha256": "b6b9a304553a117e7d6eab8f4210ad8fecd7808ec1ad7ad60e840708e5dd287b",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/干净3D风格系列-r1/生成提示词.json",
+      "bytes": 26235,
+      "sha256": "0c75d155991ca6e37b415f1ec79e3c41b5a8469bccdbe5234777e898fbd5321e",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/干净3D风格系列-r1/07-简洁科技.png",
+      "bytes": 1631639,
+      "sha256": "3ff167f1899ecb8d6a2a2946f78c58db4905e783212de91338b4f2a3bf5e91ed",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/干净3D风格系列-r1/05-清爽赛璐璐.png",
+      "bytes": 1310866,
+      "sha256": "e9f39ca61d2daa1abfef7a91572d6b6ae11b2e92133dbe8a02b9e49a75e9a8d9",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/干净3D风格系列-r1/阅读说明.txt",
+      "bytes": 340,
+      "sha256": "ab97ea6d4aec89466c2097596da7792ef5c5bbc7f5af41b78ff0687b0b7cc728",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/干净3D风格系列-r1/风格总览.html",
+      "bytes": 7041,
+      "sha256": "554c9129afe0ba9a6f9bb724f6b15006063cf8902a2c273653ef6780843632d3",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/干净3D风格系列-r1/03-磨砂玻璃.png",
+      "bytes": 1683170,
+      "sha256": "f8013a7aebfeb0dd05bfaa3e3fa9aa52bb5241985896a856665e481e035e1e1c",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/干净3D风格系列-r1/02-温润瓷感.png",
+      "bytes": 1667423,
+      "sha256": "b90319fbeb983f941fe399638d363e016d33d247fe3af76f71487111596136d3",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/风格测试-r3-真实感3D/I-真实办公空间与CG角色.png",
+      "bytes": 2084637,
+      "sha256": "92769ff134346a79d5ec78e19f333b1e3ff29ddea73a953c689d0a1b05251727",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/风格测试-r3-真实感3D/G-电影感半写实3D.png",
+      "bytes": 2166848,
+      "sha256": "e0bb679ff7f5e795c9ae136a711218e46cfac9031f12bd0993a0a3968fbd9899",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/风格测试-r3-真实感3D/生成记录.json",
+      "bytes": 2182,
+      "sha256": "48956d3a8288208d45974d33d7a778a182aa2fc1c08c6cc7c366178e33b19eaa",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/风格测试-r3-真实感3D/真实感3D方向.md",
+      "bytes": 3062,
+      "sha256": "06f23c26fe8225242343a8761cec01d0bc0376bf11216fc1785317b26a675f58",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/风格测试-r3-真实感3D/H-实拍感微缩模型.png",
+      "bytes": 2193214,
+      "sha256": "d038150aaa27815839c2f2b517f4b1cd9b4362209a83e4865100cc83f3200b95",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/风格测试-r3-真实感3D/生成提示词.json",
+      "bytes": 11424,
+      "sha256": "bda9dbbb381c96c6b41e5d5542d72ace528572480d60d55d41b80406a795a3e8",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/观猹-全风格对照图册.pdf",
+      "bytes": 55733657,
+      "sha256": "f7bbef94e2af361edf8187b3ebb2eda9645bca9d5791e926427af3a025f5cb31",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/核验记录.json",
+      "bytes": 376,
+      "sha256": "2a55cddc9d585d99f9cdd93f2c9d609dc7151e52fbb7d35fb53608682f5a0468",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/全风格总览.html",
+      "bytes": 17617,
+      "sha256": "de5589d73f93bae611dd8aa59441731c4cdec49cfe2a734776c195d59ac1d1c3",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/全量清单与编号对照.json",
+      "bytes": 16995,
+      "sha256": "8cc6ce2bddcb6731e2fa68bac1f45e31d5a2afd7297c098ee617c0f67351a512",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/阅读说明与编号.md",
+      "bytes": 3692,
+      "sha256": "f3d0aa7cbc5054af8c93e14e5ff7e2094f3727418650fda8e8e113ed65fae41f",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/整合方案.json",
+      "bytes": 8878,
+      "sha256": "70e525379d9812d85a41da8255c3d51129b20ae7cda8487131412fd1992adf89",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/总览图/全风格-4.png",
+      "bytes": 2425276,
+      "sha256": "fdf404772ab960dd3771488053f8ff2c4930565a52cabf50f5b11290bffefc68",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/总览图/全风格-2.png",
+      "bytes": 3395638,
+      "sha256": "9b2e463f38d8ff63b6150a2053ce4c9385d57fd68a1cd9acf448b20ed21d6f0e",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/总览图/全风格-3.png",
+      "bytes": 3354342,
+      "sha256": "9e2b219047b196f263e69a10b07321913eb89082db61ea7604dd89389fcff4ee",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/总览图/全风格-1.png",
+      "bytes": 3173423,
+      "sha256": "2a2d3bfbf2d0b7e1e90f8e6a52965130429539ef1a41fa8c56c1122c7fdec947",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/主选原图/V13-极简哑光3D.png",
+      "bytes": 1688801,
+      "sha256": "b6b9a304553a117e7d6eab8f4210ad8fecd7808ec1ad7ad60e840708e5dd287b",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/主选原图/V05-漫画电影式3D.png",
+      "bytes": 2173419,
+      "sha256": "e5588471df1c896e7e6cd8caa073fead1b63256fd0c2a612c037a8bf8a76162c",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/主选原图/V04-清爽赛璐璐.png",
+      "bytes": 1310866,
+      "sha256": "e9f39ca61d2daa1abfef7a91572d6b6ae11b2e92133dbe8a02b9e49a75e9a8d9",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/主选原图/V08-二维角色与立体布景.png",
+      "bytes": 1776023,
+      "sha256": "909934f91d9b3194fc53d07289a5849e24dba9908d3265d0e6d088e7e8c48e8b",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/主选原图/V10-电影感半写实3D.png",
+      "bytes": 2166848,
+      "sha256": "e0bb679ff7f5e795c9ae136a711218e46cfac9031f12bd0993a0a3968fbd9899",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/主选原图/V11-实体偶质感3D.png",
+      "bytes": 2193214,
+      "sha256": "d038150aaa27815839c2f2b517f4b1cd9b4362209a83e4865100cc83f3200b95",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/主选原图/V02-二维动画场景.png",
+      "bytes": 1709675,
+      "sha256": "775f1f2b438295defef85fa03b62c96c5892da4fee865f67a4bfb32211643a29",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/主选原图/V12-实景感空间与CG角色.png",
+      "bytes": 2084637,
+      "sha256": "92769ff134346a79d5ec78e19f333b1e3ff29ddea73a953c689d0a1b05251727",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/主选原图/V16-深绿布光3D.png",
+      "bytes": 1760946,
+      "sha256": "8a9c178f2a31878f9b131d93b24d930014c0112f831f8a5bd066f8ccf3ac259f",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/主选原图/V07-纸雕舞台.png",
+      "bytes": 2275743,
+      "sha256": "165704cc093c52289aebb6f85c1f999884e4c4750fa5e44dca941d0b5734949d",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/主选原图/V14-自然光简洁3D.png",
+      "bytes": 1687410,
+      "sha256": "9761173f943102948527effc76b481a401331e7b091693e0ea1e173a7b8a62a1",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/主选原图/V01-手绘卡通.png",
+      "bytes": 1785090,
+      "sha256": "c650b2cf1bf85c5dab89fadc06c03af2cfcdf34ffa32f15a3eb78f61a6af27a6",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/主选原图/V09-圆润哑光3D.png",
+      "bytes": 1788902,
+      "sha256": "dcd15ac0a93412505978425ed117a957b89086c556b836e43cfeac5cf83cb444",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/主选原图/V03-印刷网点漫画.png",
+      "bytes": 2920855,
+      "sha256": "ece9a364fd54f9f6cd86361ab81b87268555a2be4930d395fc8f90dc10371e6c",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/主选原图/V15-几何低多边形.png",
+      "bytes": 1558650,
+      "sha256": "a8d724bac06d4b639f03069814a5506ee555670e091d7c45cdb7fbe84d7ded77",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/主选原图/V06-手绘质感3D.png",
+      "bytes": 1911932,
+      "sha256": "d020575607040af1f95066cda1241622fb9eeff8213db3b5d1da00fb319505ea",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/来源记录/干净3D风格系列-r1/生成记录.json",
+      "bytes": 5762,
+      "sha256": "cb26d6a62da82874878b8d44c847da24413e256bcd3019cb044796503d63b685",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/来源记录/干净3D风格系列-r1/生成提示词.json",
+      "bytes": 26235,
+      "sha256": "0c75d155991ca6e37b415f1ec79e3c41b5a8469bccdbe5234777e898fbd5321e",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/来源记录/风格测试-r3-真实感3D/生成记录.json",
+      "bytes": 2182,
+      "sha256": "48956d3a8288208d45974d33d7a778a182aa2fc1c08c6cc7c366178e33b19eaa",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/来源记录/风格测试-r3-真实感3D/生成提示词.json",
+      "bytes": 11424,
+      "sha256": "bda9dbbb381c96c6b41e5d5542d72ace528572480d60d55d41b80406a795a3e8",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/来源记录/风格测试-r4-漫画电影3D/生成记录.json",
+      "bytes": 2475,
+      "sha256": "44c5cec563e36dd2970a0bc571914aa0095781e62391a79603a387bf73906b8f",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/来源记录/风格测试-r4-漫画电影3D/生成提示词.json",
+      "bytes": 14464,
+      "sha256": "5952b01acdeb87c61e121b339cdab7b26ec79d30449658de0c071af69874f861",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/来源记录/风格测试-r2/生成记录.json",
+      "bytes": 2539,
+      "sha256": "9001d48957bb3f5202259c1f12aedcfc72f4c5163e9dedba4a7ab642677b775c",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/来源记录/风格测试-r2/生成提示词.json",
+      "bytes": 12054,
+      "sha256": "06a24f50661d3e0ce009337ae7bdb683dc3480f25101d49f4ceaad66a8e1928f",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/来源记录/风格测试-r5-干净3D/生成记录.json",
+      "bytes": 1997,
+      "sha256": "b77ecdf2d46f4dcf2a52eb9d5ae50a9484d4e2a02a58808a87fe242dc3dbacd9",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/来源记录/风格测试-r5-干净3D/生成提示词.json",
+      "bytes": 11526,
+      "sha256": "e6960df290a35ae79b0aec32c89b27df1b1b3ce00e0ba24dafeed7e382536bb4",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/来源记录/风格测试-r1/生成记录.json",
+      "bytes": 1233,
+      "sha256": "ecba55a75f4ffe985d2ba1b00a1093bf2d4fe29fb75c59d4f020af6a64ac2bce",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/来源记录/风格测试-r1/生成提示词.json",
+      "bytes": 8191,
+      "sha256": "c9e885932cbbe381c5de46f2cb4ece4aa326c3074e6b77164cd106c532a2ab2d",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/备查原图/D02-自然光简洁旧版.png",
+      "bytes": 1598263,
+      "sha256": "0cc094941b16b919a4f4857b03011a7ee4cc0df282e348f54fb378d826b91d28",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/备查原图/P01-漫画3D首版过程图.png",
+      "bytes": 2079870,
+      "sha256": "387ef59b0917f9ffd845a6fa7240fb2125a5d72a4fa15b7271187dbd30300ece",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/备查原图/D01-清爽哑光旧版.png",
+      "bytes": 1571850,
+      "sha256": "4b7677d2537eb4fb293034a25b78f65fb841db2b71d39d71c7b08aad8623bdea",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/备查原图/R03-漫画角色与科技产品场景.png",
+      "bytes": 1935311,
+      "sha256": "106dcddc06dde6df7eec9b441f226f41683aee006cd0f8af7fa137085572485a",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/备查原图/R05-简洁科技.png",
+      "bytes": 1631639,
+      "sha256": "3ff167f1899ecb8d6a2a2946f78c58db4905e783212de91338b4f2a3bf5e91ed",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/备查原图/R04-极简产品广告3D.png",
+      "bytes": 1577496,
+      "sha256": "76cd0bb06a60c7d69b93fca38435a68e8c66b810e8329927ec654bd027ab4a88",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/备查原图/R02-磨砂玻璃.png",
+      "bytes": 1683170,
+      "sha256": "f8013a7aebfeb0dd05bfaa3e3fa9aa52bb5241985896a856665e481e035e1e1c",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/全风格整合-r1/备查原图/R01-亮釉瓷感.png",
+      "bytes": 1667423,
+      "sha256": "b90319fbeb983f941fe399638d363e016d33d247fe3af76f71487111596136d3",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/风格测试-r4-漫画电影3D/K-手绘质感电影3D.png",
+      "bytes": 1911932,
+      "sha256": "d020575607040af1f95066cda1241622fb9eeff8213db3b5d1da00fb319505ea",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/风格测试-r4-漫画电影3D/生成记录.json",
+      "bytes": 2475,
+      "sha256": "44c5cec563e36dd2970a0bc571914aa0095781e62391a79603a387bf73906b8f",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/风格测试-r4-漫画电影3D/生成提示词.json",
+      "bytes": 14464,
+      "sha256": "5952b01acdeb87c61e121b339cdab7b26ec79d30449658de0c071af69874f861",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/风格测试-r4-漫画电影3D/本轮看图说明.md",
+      "bytes": 3646,
+      "sha256": "9e65c9de119f4b61c13f74f579de2e97b00805f77233b02b3ff151eccff39ee1",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/风格测试-r4-漫画电影3D/J-漫画电影式3D.png",
+      "bytes": 2173419,
+      "sha256": "e5588471df1c896e7e6cd8caa073fead1b63256fd0c2a612c037a8bf8a76162c",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/风格测试-r4-漫画电影3D/L-漫画角色与科技产品场景.png",
+      "bytes": 1935311,
+      "sha256": "106dcddc06dde6df7eec9b441f226f41683aee006cd0f8af7fa137085572485a",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/风格测试-r4-漫画电影3D/过程/J0-首版偏常规3D.png",
+      "bytes": 2079870,
+      "sha256": "387ef59b0917f9ffd845a6fa7240fb2125a5d72a4fa15b7271187dbd30300ece",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/风格测试-r2/生成记录.json",
+      "bytes": 2539,
+      "sha256": "9001d48957bb3f5202259c1f12aedcfc72f4c5163e9dedba4a7ab642677b775c",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/风格测试-r2/生成提示词.json",
+      "bytes": 12054,
+      "sha256": "06a24f50661d3e0ce009337ae7bdb683dc3480f25101d49f4ceaad66a8e1928f",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/风格测试-r2/E-复古网点漫画.png",
+      "bytes": 2920855,
+      "sha256": "ece9a364fd54f9f6cd86361ab81b87268555a2be4930d395fc8f90dc10371e6c",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/风格测试-r2/C-赛璐璐动画.png",
+      "bytes": 1709675,
+      "sha256": "775f1f2b438295defef85fa03b62c96c5892da4fee865f67a4bfb32211643a29",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/风格测试-r2/F-二维角色与立体舞台-混合风格测试.png",
+      "bytes": 1776023,
+      "sha256": "909934f91d9b3194fc53d07289a5849e24dba9908d3265d0e6d088e7e8c48e8b",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/风格测试-r2/多画风与混搭方案.md",
+      "bytes": 6265,
+      "sha256": "f048c3f94ea25544e23df7dfadcb649ed2b88889c1520ba919f0480f8e23a983",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/风格测试-r2/D-纸雕舞台.png",
+      "bytes": 2275743,
+      "sha256": "165704cc093c52289aebb6f85c1f999884e4c4750fa5e44dca941d0b5734949d",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/风格测试-r5-干净3D/生成记录.json",
+      "bytes": 1997,
+      "sha256": "b77ecdf2d46f4dcf2a52eb9d5ae50a9484d4e2a02a58808a87fe242dc3dbacd9",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/风格测试-r5-干净3D/生成提示词.json",
+      "bytes": 11526,
+      "sha256": "e6960df290a35ae79b0aec32c89b27df1b1b3ce00e0ba24dafeed7e382536bb4",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/风格测试-r5-干净3D/简洁3D说明.md",
+      "bytes": 2169,
+      "sha256": "cd289f53580ab73dde3adeae2e5a7e426ddcd6dab3022558634272c187e613a5",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/风格测试-r5-干净3D/N-极简产品广告3D.png",
+      "bytes": 1577496,
+      "sha256": "76cd0bb06a60c7d69b93fca38435a68e8c66b810e8329927ec654bd027ab4a88",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/风格测试-r5-干净3D/M-清爽哑光3D.png",
+      "bytes": 1571850,
+      "sha256": "4b7677d2537eb4fb293034a25b78f65fb841db2b71d39d71c7b08aad8623bdea",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/风格测试-r5-干净3D/O-自然光简洁3D.png",
+      "bytes": 1598263,
+      "sha256": "0cc094941b16b919a4f4857b03011a7ee4cc0df282e348f54fb378d826b91d28",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/风格测试-r1/生成记录.json",
+      "bytes": 1233,
+      "sha256": "ecba55a75f4ffe985d2ba1b00a1093bf2d4fe29fb75c59d4f020af6a64ac2bce",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/风格测试-r1/生成提示词.json",
+      "bytes": 8191,
+      "sha256": "c9e885932cbbe381c5de46f2cb4ece4aa326c3074e6b77164cd106c532a2ab2d",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "视觉开发/风格测试-r1/B-哑光3D跨场景测试.png",
+      "bytes": 1788902,
+      "sha256": "dcd15ac0a93412505978425ed117a957b89086c556b836e43cfeac5cf83cb444",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "视觉开发/风格测试-r1/A-手绘风格跨场景测试.png",
+      "bytes": 1785090,
+      "sha256": "c650b2cf1bf85c5dab89fadc06c03af2cfcdf34ffa32f15a3eb78f61a6af27a6",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "脚本/观猹业务漫剧-脚本重写提案-r4.md",
+      "bytes": 15055,
+      "sha256": "8005d9d273a623cf2420b1343c3b4dcc6347755c279725abc47292e7c7ae7d5d",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "脚本/观猹业务漫剧-脚本重写提案-r1.md",
+      "bytes": 9050,
+      "sha256": "f6218ecfb61025d048b3da7ce0d755ce33da796f268d8d6f8dbac8b5459af823",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "脚本/观猹业务漫剧-脚本重写提案-r2.md",
+      "bytes": 10324,
+      "sha256": "2521256a74e961f1680ebcbecf57bd323d3cad1dbfc2bf261e86c78d2340286a",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "脚本/观猹业务漫剧-脚本重写提案-r3.md",
+      "bytes": 7039,
+      "sha256": "dd02da1eb3e1187a9195bddbdcd8e734044e333c1bbfb55493e9325876b40a50",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "资产/资产清单.md",
+      "bytes": 5519,
+      "sha256": "e874a092cff3df394f5fe369ed41882849085a65cf341e39bcc3d8b1ea1f465c",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "资产/品牌标识预览.html",
+      "bytes": 463,
+      "sha256": "f47c0e15d4c1809ef26ebd8196a2197a3880f1409553902c5eb708edea315299",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "资产/资产清单.json",
+      "bytes": 7809,
+      "sha256": "df2687f41fdd5cd196e5b7116cc2e31064918cd86a82ac6aa4fb9146e6bbadbb",
+      "original_media_unchanged": false
+    },
+    {
+      "path": "资产/角色/猹妹-IP形象锚定图.png",
+      "bytes": 1995131,
+      "sha256": "f59292c3dbb71fa01b49c5f0bbba78b1176b5bfa7b13e8a5368964ec34e994c2",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "资产/角色/猹-IP形象锚定图.png",
+      "bytes": 442300,
+      "sha256": "8d9656a597b1cdffa629c8ed4ab99d119457fe9dc889ebd0e8541f3c4ce64076",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "资产/猹与猹/猹与猹-双猹黑西装-立体参考.png",
+      "bytes": 1350410,
+      "sha256": "2f47cc77c3a1fbc2d8db57f32302aac4b02025142b0126b4ba137787f9d51561",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "资产/猹与猹/猹与猹-单猹点赞-立体参考.png",
+      "bytes": 1196761,
+      "sha256": "41a4a490feba13602d50660157c707837405989f0e3d6bd75aae2141462ec969",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "资产/猹与猹/猹与猹-品牌海报-绿底版.png",
+      "bytes": 1140708,
+      "sha256": "c56010116abaf570d08718cebff511783fe857cd2d914c51810e625b3fa15f65",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "资产/猹与猹/猹与猹-品牌海报-舞台版.png",
+      "bytes": 1157948,
+      "sha256": "81e577013543e36abcc1043edcfdd93db995328371d580be9d87642aa862fcf3",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "资产/品牌标识/TokenDance-词元跳动-透明标识.png",
+      "bytes": 61667,
+      "sha256": "667192a6f2a5165d82caf7f418471f060664c3d9bbf19590c8157132d26c20d1",
+      "original_media_unchanged": true
+    },
+    {
+      "path": "资产/品牌标识/观猹标识-透明原图.png",
+      "bytes": 74924,
+      "sha256": "d62d6b6eab76785f0ca6340c0cf58ab183b56c0dd6955e135b8bfb5f5f2a6bc5",
+      "original_media_unchanged": true
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "status": "generated",
+  "index": 2,
+  "fingerprint": "0e9ed3957d6f29537987db4d63e37d778fb8b636a9d20748fa78340f7f4fe6d9",
+  "text": "\"猹\" 出自鲁迅笔下《故乡》，猹生活在瓜田中，爱偷偷吃瓜 —— 观猹就是一个轻松愉快可以一起来 \"吃瓜\" 的社区。\"观猹\" 又谐音 \"观察\"，用户在社区中不仅可以吃瓜，还可以交流分享自己对于 AI 产品真实的观察。",
+  "voice_id": "qingchunshaonv",
+  "instruction": "请用自然清晰、亲切而不夸张的中文女声讲解业务介绍，普通话，正常语速，语气轻松专业。完整忠实朗读正文，不增删文字，不读本指令，不加音乐或音效。猹读chá，观猹读guān chá，猹与猹读chá yǔ chá，爱猹收读ài chá shōu。AI、API、IP、MCN按英文字母读，TokenDance读Token Dance，TokenPay读Token Pay，Web Search按英语读。保持同一音色和自然的中英文衔接。",
+  "sample_rate": 24000,
+  "speed": 1.0,
+  "seconds": 17.72,
+  "peak": 0.946533203125,
+  "file": "[项目目录]/配音试听/v1/分段音频/02.wav",
+  "elapsed": 9.12
+}

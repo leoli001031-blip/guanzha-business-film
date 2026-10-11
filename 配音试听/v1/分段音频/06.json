@@ -1,0 +1,14 @@
+{
+  "status": "generated",
+  "index": 6,
+  "fingerprint": "1cae3fde0cbf4b0d7b7c8ea964bcb770b5ffcfff137efbe85060e48fe4749d2e",
+  "text": "玩 AI、评 AI、发现 AI，只是观猹的起点。产品背后真正驱动的，是强大的模型能力 —— 这就是观猹生态的另一块拼图，TokenDance 词元跳动。",
+  "voice_id": "qingchunshaonv",
+  "instruction": "请用自然清晰、亲切而不夸张的中文女声讲解业务介绍，普通话，正常语速，语气轻松专业。完整忠实朗读正文，不增删文字，不读本指令，不加音乐或音效。猹读chá，观猹读guān chá，猹与猹读chá yǔ chá，爱猹收读ài chá shōu。AI、API、IP、MCN按英文字母读，TokenDance读Token Dance，TokenPay读Token Pay，Web Search按英语读。保持同一音色和自然的中英文衔接。",
+  "sample_rate": 24000,
+  "speed": 1.0,
+  "seconds": 13.88,
+  "peak": 0.707183837890625,
+  "file": "[项目目录]/配音试听/v1/分段音频/06.wav",
+  "elapsed": 9.55
+}

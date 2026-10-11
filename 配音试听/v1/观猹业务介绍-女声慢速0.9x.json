@@ -1,0 +1,10 @@
+{
+  "source": "观猹业务介绍-完整女声试听-v1.wav",
+  "method": "ffmpeg atempo=0.9",
+  "speed_relative_to_v1": 0.9,
+  "pitch_change": false,
+  "text_changes": false,
+  "seconds": 270.087875,
+  "decode_passed": true,
+  "user_listening_accepted": false
+}

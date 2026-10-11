@@ -1,0 +1,14 @@
+{
+  "status": "generated",
+  "index": 7,
+  "fingerprint": "2655d3ba6927499e0083b296e73a56fde64aa9f57884f1d9d34990eed6fd5f22",
+  "text": "TokenDance 词元跳动，是观猹生态旗下的一站式大模型 API 聚合平台。一个 API Key，连接国内主流模型，覆盖文本、图像、视频、语音、多模态、Web Search 等能力。以全、快、稳、省的模型服务，让丰富的模型能力，成为每一个想法走向现实的起点。",
+  "voice_id": "qingchunshaonv",
+  "instruction": "请用自然清晰、亲切而不夸张的中文女声讲解业务介绍，普通话，正常语速，语气轻松专业。完整忠实朗读正文，不增删文字，不读本指令，不加音乐或音效。猹读chá，观猹读guān chá，猹与猹读chá yǔ chá，爱猹收读ài chá shōu。AI、API、IP、MCN按英文字母读，TokenDance读Token Dance，TokenPay读Token Pay，Web Search按英语读。保持同一音色和自然的中英文衔接。",
+  "sample_rate": 24000,
+  "speed": 1.0,
+  "seconds": 23.2,
+  "peak": 0.941070556640625,
+  "file": "[项目目录]/配音试听/v1/分段音频/07.wav",
+  "elapsed": 11.2
+}

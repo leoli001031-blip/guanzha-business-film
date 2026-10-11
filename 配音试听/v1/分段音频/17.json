@@ -1,0 +1,14 @@
+{
+  "status": "generated",
+  "index": 17,
+  "fingerprint": "e556dc9983e58c48de46a04f4a01eb9a495225b51f76904528fae133f62d92b7",
+  "text": "我们不只做评分，也不只做分发，而是把 \"创造\" 这条路铺完整：TokenDance 让创意落地，观猹让产品发声，猹与猹让创作者和产品真正赚到钱。",
+  "voice_id": "qingchunshaonv",
+  "instruction": "请用自然清晰、亲切而不夸张的中文女声讲解业务介绍，普通话，正常语速，语气轻松专业。完整忠实朗读正文，不增删文字，不读本指令，不加音乐或音效。猹读chá，观猹读guān chá，猹与猹读chá yǔ chá，爱猹收读ài chá shōu。AI、API、IP、MCN按英文字母读，TokenDance读Token Dance，TokenPay读Token Pay，Web Search按英语读。保持同一音色和自然的中英文衔接。",
+  "sample_rate": 24000,
+  "speed": 1.0,
+  "seconds": 13.2,
+  "peak": 0.8521728515625,
+  "file": "[项目目录]/配音试听/v1/分段音频/17.wav",
+  "elapsed": 8.2
+}

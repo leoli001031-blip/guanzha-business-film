@@ -1,0 +1,35 @@
+{
+  "tool": "built-in image_gen",
+  "audience": "活动现场的 AI 行业观众",
+  "entries": [
+    {
+      "id": "A",
+      "file": "A-手绘风格跨场景测试.png",
+      "source": "[本地路径已省略]",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "c650b2cf1bf85c5dab89fadc06c03af2cfcdf34ffa32f15a3eb78f61a6af27a6",
+      "status": "style_proposal_not_approved"
+    },
+    {
+      "id": "B",
+      "file": "B-哑光3D跨场景测试.png",
+      "source": "[本地路径已省略]",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "dcd15ac0a93412505978425ed117a957b89086c556b836e43cfeac5cf83cb444",
+      "status": "style_proposal_not_approved"
+    }
+  ],
+  "visual_review": "已查看两张输出。每张包含社区、模型工作台、商务三场景及局部角色/配色参考；仅用于风格比较。",
+  "limitations": [
+    "同一张测试板内部的统一，不等于独立镜头生成时已验证一致性。",
+    "B是根据平面锚定图提出的立体造型，尚未定稿。",
+    "业务道具与图标为示意，不代表已确认的真实产品界面。",
+    "本轮未确认故事、角色三视图、最终配色数值、灯光参数或分镜。"
+  ]
+}

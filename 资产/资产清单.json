@@ -1,0 +1,249 @@
+{
+  "received_date": "2026-10-10",
+  "source": "用户当前会话上传",
+  "attachment_count": 11,
+  "unique_asset_count": 8,
+  "assets": [
+    {
+      "id": "GC-001",
+      "title": "猹 IP 形象锚定图",
+      "path": "角色/猹-IP形象锚定图.png",
+      "description": "白色圆润身体、绿色T恤、大尾巴；包含表情与细节参考。",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 442300,
+      "sha256": "8d9656a597b1cdffa629c8ed4ab99d119457fe9dc889ebd0e8541f3c4ce64076",
+      "png_color_type": 2,
+      "source_attachment": "codex-clipboard-[本地记录编号已省略].png",
+      "status": "received_original",
+      "modified": false
+    },
+    {
+      "id": "GC-002",
+      "title": "猹妹 IP 形象锚定图",
+      "path": "角色/猹妹-IP形象锚定图.png",
+      "description": "熊耳帽、棕色头发、腮红；上半身造型，包含表情与细节参考。",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1995131,
+      "sha256": "f59292c3dbb71fa01b49c5f0bbba78b1176b5bfa7b13e8a5368964ec34e994c2",
+      "png_color_type": 2,
+      "source_attachment": "codex-clipboard-[本地记录编号已省略].png",
+      "status": "received_original",
+      "modified": false
+    },
+    {
+      "id": "CYC-001",
+      "title": "双猹黑西装立体参考",
+      "path": "猹与猹/猹与猹-双猹黑西装-立体参考.png",
+      "description": "两个白色猹角色，黑色西装、交叉抱臂，白色背景。",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1350410,
+      "sha256": "2f47cc77c3a1fbc2d8db57f32302aac4b02025142b0126b4ba137787f9d51561",
+      "png_color_type": 2,
+      "source_attachment": "codex-clipboard-[本地记录编号已省略].png",
+      "status": "received_original",
+      "modified": false
+    },
+    {
+      "id": "CYC-002",
+      "title": "单猹点赞立体参考",
+      "path": "猹与猹/猹与猹-单猹点赞-立体参考.png",
+      "description": "单个白色猹角色，黑西装、白衬衫、黑领带，竖拇指、另一手叉腰，白色背景。",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1196761,
+      "sha256": "41a4a490feba13602d50660157c707837405989f0e3d6bd75aae2141462ec969",
+      "png_color_type": 2,
+      "source_attachment": "codex-clipboard-[本地记录编号已省略].png",
+      "status": "received_original",
+      "modified": false,
+      "visible_text": []
+    },
+    {
+      "id": "CYC-003",
+      "title": "猹与猹品牌海报·舞台版",
+      "path": "猹与猹/猹与猹-品牌海报-舞台版.png",
+      "description": "黑绿白配色，双猹灰色西装站在展台上，绿色舞台光束。",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1157948,
+      "sha256": "81e577013543e36abcc1043edcfdd93db995328371d580be9d87642aa862fcf3",
+      "png_color_type": 2,
+      "source_attachment": "codex-clipboard-[本地记录编号已省略].png",
+      "status": "received_original",
+      "modified": false,
+      "visible_text": [
+        "猹与猹",
+        "CHA & CHA",
+        "AI Product × Brand Launch",
+        "好产品，值得被更多人看见",
+        "专注 AI 产品发布与增长 · 从0到1的全案营销服务",
+        "www.cha-cha.ai"
+      ]
+    },
+    {
+      "id": "CYC-004",
+      "title": "猹与猹品牌海报·绿底版",
+      "path": "猹与猹/猹与猹-品牌海报-绿底版.png",
+      "description": "绿色大标题区，双猹黑色西装抱臂，下方白色信息区及三条灰色横条。",
+      "width": 896,
+      "height": 1200,
+      "bytes": 1140708,
+      "sha256": "c56010116abaf570d08718cebff511783fe857cd2d914c51810e625b3fa15f65",
+      "png_color_type": 2,
+      "source_attachment": "codex-clipboard-[本地记录编号已省略].png",
+      "status": "received_original",
+      "modified": false,
+      "visible_text": [
+        "CHA & CHA",
+        "AI 产品发布与增长",
+        "猹与猹",
+        "专注AI产品发布与增长的全案营销服务商",
+        "好产品，值得被更多人看见",
+        "猹与猹 × CHA & CHA"
+      ]
+    },
+    {
+      "id": "BR-001",
+      "title": "TokenDance 词元跳动透明标识",
+      "path": "品牌标识/TokenDance-词元跳动-透明标识.png",
+      "description": "黑色中英文字标，含透明通道，适合浅色背景。",
+      "width": 1280,
+      "height": 443,
+      "bytes": 61667,
+      "sha256": "667192a6f2a5165d82caf7f418471f060664c3d9bbf19590c8157132d26c20d1",
+      "png_color_type": 6,
+      "source_attachment": "codex-clipboard-[本地记录编号已省略].png",
+      "status": "received_original",
+      "modified": false,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bounds": [
+        79,
+        78,
+        1202,
+        366
+      ],
+      "visible_text": [
+        "词元跳动",
+        "TokenDance"
+      ]
+    },
+    {
+      "id": "BR-002",
+      "title": "观猹透明标识",
+      "path": "品牌标识/观猹标识-透明原图.png",
+      "description": "绿色角色图标与黑色字标，含透明通道；可见英文 insights。",
+      "width": 1280,
+      "height": 498,
+      "bytes": 74924,
+      "sha256": "d62d6b6eab76785f0ca6340c0cf58ab183b56c0dd6955e135b8bfb5f5f2a6bc5",
+      "png_color_type": 6,
+      "source_attachment": "image.png",
+      "status": "received_original",
+      "modified": false,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "visible_bounds": [
+        122,
+        122,
+        1158,
+        376
+      ],
+      "visible_text": [
+        "insights"
+      ]
+    }
+  ],
+  "receipts": [
+    {
+      "attachment_index": 1,
+      "source_name": "codex-clipboard-[本地记录编号已省略].png",
+      "asset_id": "GC-001",
+      "duplicate": false
+    },
+    {
+      "attachment_index": 2,
+      "source_name": "codex-clipboard-[本地记录编号已省略].png",
+      "asset_id": "GC-002",
+      "duplicate": false
+    },
+    {
+      "attachment_index": 3,
+      "source_name": "codex-clipboard-[本地记录编号已省略].png",
+      "asset_id": "CYC-001",
+      "duplicate": false
+    },
+    {
+      "attachment_index": 4,
+      "source_name": "codex-clipboard-[本地记录编号已省略].png",
+      "asset_id": "CYC-001",
+      "duplicate": true
+    },
+    {
+      "attachment_index": 5,
+      "source_name": "codex-clipboard-[本地记录编号已省略].png",
+      "asset_id": "CYC-001",
+      "duplicate": true
+    },
+    {
+      "attachment_index": 6,
+      "source_name": "codex-clipboard-[本地记录编号已省略].png",
+      "asset_id": "CYC-001",
+      "duplicate": true
+    },
+    {
+      "attachment_index": 7,
+      "source_name": "codex-clipboard-[本地记录编号已省略].png",
+      "asset_id": "CYC-002",
+      "duplicate": false,
+      "batch": 2
+    },
+    {
+      "attachment_index": 8,
+      "source_name": "codex-clipboard-[本地记录编号已省略].png",
+      "asset_id": "CYC-003",
+      "duplicate": false,
+      "batch": 2
+    },
+    {
+      "attachment_index": 9,
+      "source_name": "codex-clipboard-[本地记录编号已省略].png",
+      "asset_id": "CYC-004",
+      "duplicate": false,
+      "batch": 2
+    },
+    {
+      "attachment_index": 10,
+      "source_name": "codex-clipboard-[本地记录编号已省略].png",
+      "asset_id": "BR-001",
+      "duplicate": false,
+      "batch": 3
+    },
+    {
+      "attachment_index": 11,
+      "source_name": "image.png",
+      "asset_id": "BR-002",
+      "duplicate": false,
+      "batch": 3
+    }
+  ],
+  "pending": [],
+  "completed_requests": [
+    {
+      "description": "补充猹与猹两张海报，并额外收到一张单猹点赞立体图",
+      "status": "received",
+      "asset_ids": [
+        "CYC-002",
+        "CYC-003",
+        "CYC-004"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "model": "[本地路径已省略]",
+  "runtime": "[本地路径已省略]",
+  "device": "mps",
+  "dtype": "float32",
+  "text": "现在 AI 产品太多了，每天都有新工具、新模型、新应用出现。普通用户很难判断：这个产品到底好不好用？适合什么场景？观猹想解决的，就是这个问题。TokenDance 词元跳动，是观猹生态旗下的一站式大模型 API 聚合平台。你专心做内容，商业的事猹与猹来。",
+  "synthesis_text": "现在 AI 产品太多了，每天都有新工具、新模型、新应用出现。普通用户很难判断：这个产品到底好不好用？适合什么场景？观茶想解决的，就是这个问题。Token Dance 词元跳动，是观茶生态旗下的一站式大模型 A P I 聚合平台。你专心做内容，商业的事茶与茶来。",
+  "pronunciation_substitutions": {
+    "观猹": "观茶",
+    "猹与猹": "茶与茶",
+    "TokenDance": "Token Dance",
+    "API": "A P I"
+  },
+  "method": "Qwen3-TTS VoiceDesign directly designs two male character voices and speaks the identical audition text. No prior reference audio.",
+  "generation_parameters": {
+    "temperature": 0.85,
+    "top_p": 0.92,
+    "top_k": 60,
+    "max_new_tokens": 1000
+  },
+  "entries": [
+    {
+      "id": "C3",
+      "label": "猹猹男声·温厚软糯",
+      "direction": "猹猹：明确年轻男声，保留软乎感",
+      "seed": 2026101021,
+      "instruct": "明确的年轻男性角色声，二十岁左右男青年，中等音区，声线有男性的厚实和自然胸腔共鸣，听起来就是亲切的年轻男生。音色温厚圆润、稍扁、软糯，带极轻的自然鼻音和笑意。用这副男声演一个圆滚滚的小动物伙伴，憨软但聪明，认真解释时有点小得意。保持真实男声的声带质感，可爱来自亲切语气和圆润咬字，不使用女性嗓音或幼童奶音，不刻意压成低音炮，不油腻。中文普通话，干净近讲人声。像和身旁的朋友聊天，清楚、自然，有轻重和停顿。语速中等偏舒展，给问题留一点思考的空间；技术词也放松地解释。全段保持同一人的声音。不要播音腔、广告推销腔、夸张煽情或快速赶词，不加音乐和音效。",
+      "raw_file": "原始干声/C3.wav",
+      "status": "generated",
+      "seconds": 24.8,
+      "sample_rate": 24000,
+      "peak": 0.7003988027572632,
+      "clipped_samples": 0,
+      "elapsed_seconds": 234.62,
+      "sha256": "e3ad2bf4b9478dcfe4bd7b9efd9695d1840e36b4a8cf1d2b93dd5dc6bc633dd3",
+      "audition_file": "试听音频/C3-猹猹男声·温厚软糯.mp3"
+    },
+    {
+      "id": "C4",
+      "label": "猹猹男声·清亮机灵",
+      "direction": "猹猹：明确年轻男声，保留机灵感",
+      "seed": 2026101022,
+      "instruct": "明确的年轻男性角色声，十八到二十二岁的男青年，已经变声的清亮男生嗓音，中等音区，男声质感清楚，发声实而不虚。音色圆润轻巧，略有鼻腔共鸣，利落但温和；像一只聪明的小动物用年轻男生的声音带朋友逛社区，带笑意、有好奇心，转折有一点俏皮。保留男性声线的厚度和实感，避免偏女性的甜声、假声、幼童奶音或成熟男主播腔。中文普通话，干净近讲人声。像和身旁的朋友聊天，清楚、自然，有轻重和停顿。语速中等偏舒展，给问题留一点思考的空间；技术词也放松地解释。全段保持同一人的声音。不要播音腔、广告推销腔、夸张煽情或快速赶词，不加音乐和音效。",
+      "raw_file": "原始干声/C4.wav",
+      "status": "generated",
+      "seconds": 23.2,
+      "sample_rate": 24000,
+      "peak": 0.5891716480255127,
+      "clipped_samples": 0,
+      "elapsed_seconds": 175.88,
+      "sha256": "3df919ad14781c5064f65e3d1bfe5a9840edc240f93020670fca76a11df467d3",
+      "audition_file": "试听音频/C4-猹猹男声·清亮机灵.mp3"
+    }
+  ],
+  "user_accepted": false,
+  "postprocessing": "Constant volume gain only (aim -19 LUFS, capped by -1 dBTP headroom), MP3 encoding. No pitch/speed/EQ/reverb/music."
+}

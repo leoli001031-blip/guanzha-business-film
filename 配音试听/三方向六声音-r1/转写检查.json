@@ -1,0 +1,32 @@
+[
+  {
+    "id": "A1",
+    "transcript": "现在AI产品太多了,每天都有新工具、新模型、新应用出现。普通用户很难判断这个产品到底好不好用,适合什么场景。观察想解决的就是这个问题。Token Dance 词源跳动是观察生态旗下的一站式大模型API聚合平台。你专心做内容、商业的视察与查赖。",
+    "method": "Independent local Whisper transcription without reference prompt"
+  },
+  {
+    "id": "A2",
+    "transcript": "现在AI产品太多了,每天都有新工具、新模型、新应用出现。普通用户很难判断,这个产品到底好不好用?适合什么场景?观察想解决的就是这个问题。Token Dance词源跳动是观察生态旗下的一战式大模型API聚合平台。你专心做内容,商业的事查与查来。",
+    "method": "Independent local Whisper transcription without reference prompt"
+  },
+  {
+    "id": "B1",
+    "transcript": "现在AI产品太多了,每天都有新工具、新模型、新应用出现。普通用户很难判断这个产品到底好不好用,适合什么场景。观察想解决的就是这个问题。Token Dance词源跳动是观察生态旗下的一战式大模型API聚合平台。你专心做内容,商业的事,查与查来。",
+    "method": "Independent local Whisper transcription without reference prompt"
+  },
+  {
+    "id": "B2",
+    "transcript": "现在AI产品太多了每天都有新工具新模型新应用出现普通用户很难判断这个产品到底好不好用适合什么场景观察想解决的就是这个问题Token Dance词源跳动是观察生态旗下的一战式大模型API聚合平台你专心做内容商业的事查与查来",
+    "method": "Independent local Whisper transcription without reference prompt"
+  },
+  {
+    "id": "C1",
+    "transcript": "现在AI产品太多了,每天都有新工具、新模型、新应用出现。普通用户很难判断这个产品到底好不好用,适合什么场景。观察想解决的就是这个问题。Token Dance 磁元跳动是观察生态旗下的一战式大模型API聚合平台。你专心做内容,商业的事,查与查赖。",
+    "method": "Independent local Whisper transcription without reference prompt"
+  },
+  {
+    "id": "C2",
+    "transcript": "现在AI产品太多了,每天都有新工具、新模型、新应用出现。普通用户很难判断这个产品到底好不好用,适合什么场景。观察想解决的就是这个问题。Token Dance词源跳动,是观察生态旗下的一站式大模型API聚合平台。你专心做内容,商业的事查与查赖。",
+    "method": "Independent local Whisper transcription without reference prompt"
+  }
+]

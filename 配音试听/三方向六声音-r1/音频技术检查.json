@@ -1,0 +1,50 @@
+[
+  {
+    "id": "A1",
+    "input_lufs": -22.16,
+    "gain_db": 3.16,
+    "estimated_output_lufs": -19.0,
+    "decode_passed": true,
+    "seconds": 26.08
+  },
+  {
+    "id": "A2",
+    "input_lufs": -21.87,
+    "gain_db": 2.87,
+    "estimated_output_lufs": -19.0,
+    "decode_passed": true,
+    "seconds": 23.52
+  },
+  {
+    "id": "B1",
+    "input_lufs": -20.13,
+    "gain_db": 1.13,
+    "estimated_output_lufs": -19.0,
+    "decode_passed": true,
+    "seconds": 22.48
+  },
+  {
+    "id": "B2",
+    "input_lufs": -21.12,
+    "gain_db": 1.77,
+    "estimated_output_lufs": -19.35,
+    "decode_passed": true,
+    "seconds": 21.12
+  },
+  {
+    "id": "C1",
+    "input_lufs": -19.28,
+    "gain_db": 0.28,
+    "estimated_output_lufs": -19.0,
+    "decode_passed": true,
+    "seconds": 25.76
+  },
+  {
+    "id": "C2",
+    "input_lufs": -18.47,
+    "gain_db": -0.53,
+    "estimated_output_lufs": -19.0,
+    "decode_passed": true,
+    "seconds": 22.56
+  }
+]

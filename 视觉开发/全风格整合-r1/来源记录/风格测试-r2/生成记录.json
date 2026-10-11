@@ -1,0 +1,56 @@
+{
+  "mode": "built-in image_gen",
+  "date": "2026-10-10",
+  "assets": [
+    {
+      "id": "C",
+      "source": "[本地路径已省略]",
+      "output": "[项目目录]/视觉开发/风格测试-r2/C-赛璐璐动画.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1709675,
+      "sha256": "775f1f2b438295defef85fa03b62c96c5892da4fee865f67a4bfb32211643a29",
+      "visual_review": "二维角色与动画场景成立，但背景和道具带有立体质感、角色保留纸纹，未达到纯赛璐璐平涂；应按实际效果理解。",
+      "status": "proposal_not_approved"
+    },
+    {
+      "id": "D",
+      "source": "[本地路径已省略]",
+      "output": "[项目目录]/视觉开发/风格测试-r2/D-纸雕舞台.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2275743,
+      "sha256": "165704cc093c52289aebb6f85c1f999884e4c4750fa5e44dca941d0b5734949d",
+      "visual_review": "纸纹、层叠边缘、纸板角色及空间投影明确，角色标志性细节可辨认。",
+      "status": "proposal_not_approved"
+    },
+    {
+      "id": "E",
+      "source": "[本地路径已省略]",
+      "output": "[项目目录]/视觉开发/风格测试-r2/E-复古网点漫画.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2920855,
+      "sha256": "ece9a364fd54f9f6cd86361ab81b87268555a2be4930d395fc8f90dc10371e6c",
+      "visual_review": "有限配色与网点印刷纹理明确；正式制作须检查大屏投放时纹理对信息可读性的影响。",
+      "status": "proposal_not_approved"
+    },
+    {
+      "id": "F",
+      "source": "[本地路径已省略]",
+      "output": "[项目目录]/视觉开发/风格测试-r2/F-二维角色与立体舞台-混合风格测试.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1776023,
+      "sha256": "909934f91d9b3194fc53d07289a5849e24dba9908d3265d0e6d088e7e8c48e8b",
+      "visual_review": "二维线稿角色、立体场景和平面说明同时出现，综合色彩基本连贯；格间角色大小与比例仍有变化；卡片放大为入口的中间态未按提示完整实现；第四格额外出现观众剪影，正式制作需统一其风格。",
+      "status": "proposal_not_approved"
+    }
+  ],
+  "limitations": [
+    "本轮为静态探索，不是正式分镜或最终资产。",
+    "单张多格生成不等于独立镜头一致性验证。",
+    "动态合成、动作衔接和大屏播放尚未测试。",
+    "二维角色稳定性需靠已定稿的资产复用，不能仅依赖提示词。"
+  ]
+}

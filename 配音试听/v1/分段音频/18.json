@@ -1,0 +1,14 @@
+{
+  "status": "generated",
+  "index": 18,
+  "fingerprint": "ce8269fa40fe06ec0124539469d50b510dfd76e1d9dff5ada78d67c8b4fcf9ab",
+  "text": "在观猹，好产品永远有被看见的机会。",
+  "voice_id": "qingchunshaonv",
+  "instruction": "请用自然清晰、亲切而不夸张的中文女声讲解业务介绍，普通话，正常语速，语气轻松专业。完整忠实朗读正文，不增删文字，不读本指令，不加音乐或音效。猹读chá，观猹读guān chá，猹与猹读chá yǔ chá，爱猹收读ài chá shōu。AI、API、IP、MCN按英文字母读，TokenDance读Token Dance，TokenPay读Token Pay，Web Search按英语读。保持同一音色和自然的中英文衔接。",
+  "sample_rate": 24000,
+  "speed": 1.0,
+  "seconds": 3.76,
+  "peak": 0.752777099609375,
+  "file": "[项目目录]/配音试听/v1/分段音频/18.wav",
+  "elapsed": 6.3
+}

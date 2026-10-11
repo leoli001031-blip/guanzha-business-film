@@ -1,0 +1,7 @@
+{
+  "status": "male_voice_candidates_ready_for_user_audition",
+  "technical_checks": "Both original WAV hashes verified, no clipped original samples, both MP3 decode checks passed.",
+  "content_check": "独立转写均覆盖整段台词；品牌名称有同音转写。",
+  "audio_model_assessment": "独立音频模型认为两条均呈青年男声；同时认为两条偏播音或专业解说，不能视为软萌角色感已完成。",
+  "user_accepted": false
+}

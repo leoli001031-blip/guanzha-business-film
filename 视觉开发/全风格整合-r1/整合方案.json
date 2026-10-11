@@ -1,0 +1,236 @@
+{
+  "title": "观猹全风格整合",
+  "date": "2026-10-10",
+  "output_root": "[项目目录]/视觉开发/全风格整合-r1",
+  "source_root": "[项目目录]/视觉开发",
+  "main": [
+    {
+      "id": "V01",
+      "name": "手绘卡通",
+      "group": "平面与动漫",
+      "source": "风格测试-r1/A-手绘风格跨场景测试.png",
+      "legacy": "旧 A",
+      "description": "粗线条与平涂，保留原始 IP 的手绘感。",
+      "status": "main_candidate_not_approved",
+      "dest": "主选原图/V01-手绘卡通.png"
+    },
+    {
+      "id": "V02",
+      "name": "二维动画场景",
+      "group": "平面与动漫",
+      "source": "风格测试-r2/C-赛璐璐动画.png",
+      "legacy": "旧 C",
+      "description": "二维角色搭配有空间感的动画背景。",
+      "status": "main_candidate_not_approved",
+      "dest": "主选原图/V02-二维动画场景.png"
+    },
+    {
+      "id": "V03",
+      "name": "印刷网点漫画",
+      "group": "平面与动漫",
+      "source": "风格测试-r2/E-复古网点漫画.png",
+      "legacy": "旧 E",
+      "description": "网点、色块和粗轮廓，漫画感更明确。",
+      "status": "main_candidate_not_approved",
+      "dest": "主选原图/V03-印刷网点漫画.png"
+    },
+    {
+      "id": "V04",
+      "name": "清爽赛璐璐",
+      "group": "平面与动漫",
+      "source": "干净3D风格系列-r1/05-清爽赛璐璐.png",
+      "legacy": "系列 05",
+      "description": "简洁明暗色块，保留动画的体积感。",
+      "status": "main_candidate_not_approved",
+      "dest": "主选原图/V04-清爽赛璐璐.png"
+    },
+    {
+      "id": "V05",
+      "name": "漫画电影式3D",
+      "group": "层次与混合",
+      "source": "风格测试-r4-漫画电影3D/J-漫画电影式3D.png",
+      "legacy": "旧 J",
+      "description": "立体造型结合漫画阴影与少量网点。",
+      "status": "main_candidate_not_approved",
+      "dest": "主选原图/V05-漫画电影式3D.png"
+    },
+    {
+      "id": "V06",
+      "name": "手绘质感3D",
+      "group": "层次与混合",
+      "source": "风格测试-r4-漫画电影3D/K-手绘质感电影3D.png",
+      "legacy": "旧 K",
+      "description": "绘画笔触随立体结构组织光影。",
+      "status": "main_candidate_not_approved",
+      "dest": "主选原图/V06-手绘质感3D.png"
+    },
+    {
+      "id": "V07",
+      "name": "纸雕舞台",
+      "group": "层次与混合",
+      "source": "风格测试-r2/D-纸雕舞台.png",
+      "legacy": "旧 D",
+      "description": "纸片层次与投影，手工质感明确。",
+      "status": "main_candidate_not_approved",
+      "dest": "主选原图/V07-纸雕舞台.png"
+    },
+    {
+      "id": "V08",
+      "name": "二维角色与立体布景",
+      "group": "层次与混合",
+      "source": "风格测试-r2/F-二维角色与立体舞台-混合风格测试.png",
+      "legacy": "旧 F",
+      "description": "角色保持二维，场景与道具提供空间。",
+      "status": "main_candidate_not_approved",
+      "dest": "主选原图/V08-二维角色与立体布景.png"
+    },
+    {
+      "id": "V09",
+      "name": "圆润哑光3D",
+      "group": "立体质感",
+      "source": "风格测试-r1/B-哑光3D跨场景测试.png",
+      "legacy": "旧 B",
+      "description": "圆润造型、柔和灯光与较完整的场景。",
+      "status": "main_candidate_not_approved",
+      "dest": "主选原图/V09-圆润哑光3D.png"
+    },
+    {
+      "id": "V10",
+      "name": "电影感半写实3D",
+      "group": "立体质感",
+      "source": "风格测试-r3-真实感3D/G-电影感半写实3D.png",
+      "legacy": "旧 G",
+      "description": "细短绒毛、衣物材质与电影式布光。",
+      "status": "main_candidate_not_approved",
+      "dest": "主选原图/V10-电影感半写实3D.png"
+    },
+    {
+      "id": "V11",
+      "name": "实体偶质感3D",
+      "group": "立体质感",
+      "source": "风格测试-r3-真实感3D/H-实拍感微缩模型.png",
+      "legacy": "旧 H",
+      "description": "布偶与微缩道具的实拍感。",
+      "status": "main_candidate_not_approved",
+      "dest": "主选原图/V11-实体偶质感3D.png"
+    },
+    {
+      "id": "V12",
+      "name": "实景感空间与CG角色",
+      "group": "立体质感",
+      "source": "风格测试-r3-真实感3D/I-真实办公空间与CG角色.png",
+      "legacy": "旧 I",
+      "description": "角色融入更接近现实的办公环境。",
+      "status": "main_candidate_not_approved",
+      "dest": "主选原图/V12-实景感空间与CG角色.png"
+    },
+    {
+      "id": "V13",
+      "name": "极简哑光3D",
+      "group": "简洁3D",
+      "source": "干净3D风格系列-r1/01-极简哑光.png",
+      "legacy": "系列 01 / 旧 M 归并",
+      "description": "背景与道具最少，注意力集中在角色。",
+      "status": "main_candidate_not_approved",
+      "dest": "主选原图/V13-极简哑光3D.png"
+    },
+    {
+      "id": "V14",
+      "name": "自然光简洁3D",
+      "group": "简洁3D",
+      "source": "干净3D风格系列-r1/08-自然光建筑.png",
+      "legacy": "系列 08 / 旧 O 归并",
+      "description": "保留窗光与少量建筑结构，画面清爽。",
+      "status": "main_candidate_not_approved",
+      "dest": "主选原图/V14-自然光简洁3D.png"
+    },
+    {
+      "id": "V15",
+      "name": "几何低多边形",
+      "group": "简洁3D",
+      "source": "干净3D风格系列-r1/04-低多边形.png",
+      "legacy": "系列 04",
+      "description": "明确的几何切面，轻快且有游戏感。",
+      "status": "main_candidate_not_approved",
+      "dest": "主选原图/V15-几何低多边形.png"
+    },
+    {
+      "id": "V16",
+      "name": "深绿布光3D",
+      "group": "简洁3D",
+      "source": "干净3D风格系列-r1/06-高对比雕塑.png",
+      "legacy": "系列 06",
+      "description": "深绿背景与轮廓光突出角色，属于布光变体。",
+      "status": "main_candidate_not_approved",
+      "dest": "主选原图/V16-深绿布光3D.png"
+    }
+  ],
+  "reserve": [
+    {
+      "id": "R01",
+      "name": "亮釉瓷感",
+      "source": "干净3D风格系列-r1/02-温润瓷感.png",
+      "status": "暂排除",
+      "description": "亮釉与大面积反射，符合本次优先排除的油亮倾向。",
+      "dest": "备查原图/R01-亮釉瓷感.png"
+    },
+    {
+      "id": "R02",
+      "name": "磨砂玻璃",
+      "source": "干净3D风格系列-r1/03-磨砂玻璃.png",
+      "status": "暂排除",
+      "description": "角色透明与透光明显，先退出主选。",
+      "dest": "备查原图/R02-磨砂玻璃.png"
+    },
+    {
+      "id": "R03",
+      "name": "漫画角色与科技产品场景",
+      "source": "风格测试-r4-漫画电影3D/L-漫画角色与科技产品场景.png",
+      "status": "需哑光化再考虑",
+      "description": "角色可以保留，但金属、玻璃道具反光较强。",
+      "dest": "备查原图/R03-漫画角色与科技产品场景.png"
+    },
+    {
+      "id": "R04",
+      "name": "极简产品广告3D",
+      "source": "风格测试-r5-干净3D/N-极简产品广告3D.png",
+      "status": "需哑光化再考虑",
+      "description": "含半透明卡片与反射，暂不作为当前主选。",
+      "dest": "备查原图/R04-极简产品广告3D.png"
+    },
+    {
+      "id": "R05",
+      "name": "简洁科技",
+      "source": "干净3D风格系列-r1/07-简洁科技.png",
+      "status": "需哑光化再考虑",
+      "description": "玻璃卡片与金属边框需进一步去反光。",
+      "dest": "备查原图/R05-简洁科技.png"
+    },
+    {
+      "id": "D01",
+      "name": "清爽哑光旧版",
+      "source": "风格测试-r5-干净3D/M-清爽哑光3D.png",
+      "status": "相近归并",
+      "description": "与 V13 接近，保留原图供复查。",
+      "dest": "备查原图/D01-清爽哑光旧版.png"
+    },
+    {
+      "id": "D02",
+      "name": "自然光简洁旧版",
+      "source": "风格测试-r5-干净3D/O-自然光简洁3D.png",
+      "status": "相近归并",
+      "description": "与 V14 接近，保留原图供复查。",
+      "dest": "备查原图/D02-自然光简洁旧版.png"
+    },
+    {
+      "id": "P01",
+      "name": "漫画3D首版过程图",
+      "source": "风格测试-r4-漫画电影3D/过程/J0-首版偏常规3D.png",
+      "status": "过程图",
+      "description": "当时未充分达到漫画风，最终对应 V05。",
+      "dest": "备查原图/P01-漫画3D首版过程图.png"
+    }
+  ],
+  "user_preference": "透明、强反光及明显油亮优先排除；把前后所有效果与动漫方向一起整合，供后续选择。",
+  "method": "保留并整理已有原图，文档排版生成四页对照图册，不重新生成或修改原图像素。"
+}

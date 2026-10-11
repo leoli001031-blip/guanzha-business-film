@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-10",
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "id": "M",
+      "source": "[本地路径已省略]",
+      "output": "[项目目录]/视觉开发/风格测试-r5-干净3D/M-清爽哑光3D.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1571850,
+      "sha256": "4b7677d2537eb4fb293034a25b78f65fb841db2b71d39d71c7b08aad8623bdea",
+      "visual_review": "背景最简洁，主体轮廓、手部交换动作与柔和体积清楚。卡片图标生成成了角色轮廓而非要求的图片符号，正式业务信息需另行准确制作。",
+      "status": "proposal_not_approved"
+    },
+    {
+      "id": "N",
+      "source": "[本地路径已省略]",
+      "output": "[项目目录]/视觉开发/风格测试-r5-干净3D/N-极简产品广告3D.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1577496,
+      "sha256": "76cd0bb06a60c7d69b93fca38435a68e8c66b810e8329927ec654bd027ab4a88",
+      "visual_review": "白色场景、半透明卡片和轻微反射较清楚；与 M 属于同一干净 3D 方向的细微处理差异，并非完全不同风格。",
+      "status": "proposal_not_approved"
+    },
+    {
+      "id": "O",
+      "source": "[本地路径已省略]",
+      "output": "[项目目录]/视觉开发/风格测试-r5-干净3D/O-自然光简洁3D.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1598263,
+      "sha256": "0cc094941b16b919a4f4857b03011a7ee4cc0df282e348f54fb378d826b91d28",
+      "visual_review": "保留窗光和简洁空间，背景无杂乱道具。帽子熊脸增加了浅色鼻口区域，猹妹鼻子偏肤色，角色细节仍需按原始锚定图统一。",
+      "status": "proposal_not_approved"
+    }
+  ],
+  "limitations": [
+    "三张均为静态概念图，不是最终角色资产或动画镜头。",
+    "各版本的脸型、手部、帽子和材质仍存在差异，尚未统一成母图。",
+    "动态一致性、业务信息和大屏播放效果尚未验证。"
+  ]
+}

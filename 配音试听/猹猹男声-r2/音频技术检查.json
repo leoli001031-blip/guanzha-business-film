@@ -1,0 +1,18 @@
+[
+  {
+    "id": "C3",
+    "input_lufs": -21.45,
+    "gain_db": 2.04,
+    "estimated_output_lufs": -19.41,
+    "decode_passed": true,
+    "seconds": 24.8
+  },
+  {
+    "id": "C4",
+    "input_lufs": -24.21,
+    "gain_db": 3.6,
+    "estimated_output_lufs": -20.61,
+    "decode_passed": true,
+    "seconds": 23.2
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "status": "generated",
+  "index": 12,
+  "fingerprint": "26c73e3dfcdec40c5b13612f37c2001f9df97f9f8fb96c7fb973d466efd53b12",
+  "text": "猹与猹是观猹旗下的创作者商业化公司，一家从AI生态里长出来的MCN。",
+  "voice_id": "qingchunshaonv",
+  "instruction": "请用自然清晰、亲切而不夸张的中文女声讲解业务介绍，普通话，正常语速，语气轻松专业。完整忠实朗读正文，不增删文字，不读本指令，不加音乐或音效。猹读chá，观猹读guān chá，猹与猹读chá yǔ chá，爱猹收读ài chá shōu。AI、API、IP、MCN按英文字母读，TokenDance读Token Dance，TokenPay读Token Pay，Web Search按英语读。保持同一音色和自然的中英文衔接。",
+  "sample_rate": 24000,
+  "speed": 1.0,
+  "seconds": 7.2,
+  "peak": 0.89569091796875,
+  "file": "[项目目录]/配音试听/v1/分段音频/12.wav",
+  "elapsed": 7.62
+}

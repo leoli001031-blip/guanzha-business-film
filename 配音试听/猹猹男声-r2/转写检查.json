@@ -1,0 +1,12 @@
+[
+  {
+    "id": "C3",
+    "transcript": "现在AI产品太多了,每天都有新工具、新模型、新应用出现。普通用户很难判断这个产品到底好不好用,适合什么场景。观察想解决的就是这个问题。Token Dance 词源跳动是观察生态旗下的一站式大模型API聚合平台。你专心做内容,商业的是茶与茶来。",
+    "method": "Independent local Whisper transcription without reference prompt"
+  },
+  {
+    "id": "C4",
+    "transcript": "现在AI产品太多了,每天都有新工具、新模型、新应用出现。普通用户很难判断这个产品到底好不好用,适合什么场景。观察想解决的就是这个问题。Token Dance词源跳动是观察生态旗下的一战式大模型API聚合平台。你专心做内容,商业的事,查与查来。",
+    "method": "Independent local Whisper transcription without reference prompt"
+  }
+]

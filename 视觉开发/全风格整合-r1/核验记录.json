@@ -1,0 +1,15 @@
+{
+  "original_images": 24,
+  "main_candidates": 16,
+  "overview_pages": 4,
+  "source_and_copy_hashes_match": true,
+  "html_local_links_checked": 54,
+  "pdf_pages_visually_reviewed": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "visual_review": "四页均已逐页查看，编号、图像、中文说明完整可读，无重叠或截断。",
+  "status": "供风格比较，未定稿"
+}

@@ -1,0 +1,14 @@
+{
+  "status": "generated",
+  "index": 9,
+  "fingerprint": "def29f22420deaf304488f8bdd53d64f3c2576c2e3e2de5455c83e5850fe8a26",
+  "text": "面向开发者，TokenPay 打造 AI 时代的 Token 钱包，连接用户、模型与应用，简化授权、调用与计费。用户用自己的模型额度体验产品，开发者更快验证想法，并通过真实调用获得收益，让好项目持续生长。",
+  "voice_id": "qingchunshaonv",
+  "instruction": "请用自然清晰、亲切而不夸张的中文女声讲解业务介绍，普通话，正常语速，语气轻松专业。完整忠实朗读正文，不增删文字，不读本指令，不加音乐或音效。猹读chá，观猹读guān chá，猹与猹读chá yǔ chá，爱猹收读ài chá shōu。AI、API、IP、MCN按英文字母读，TokenDance读Token Dance，TokenPay读Token Pay，Web Search按英语读。保持同一音色和自然的中英文衔接。",
+  "sample_rate": 24000,
+  "speed": 1.0,
+  "seconds": 19.44,
+  "peak": 0.93231201171875,
+  "file": "[项目目录]/配音试听/v1/分段音频/09.wav",
+  "elapsed": 8.77
+}

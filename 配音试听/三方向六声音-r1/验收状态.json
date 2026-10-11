@@ -1,0 +1,10 @@
+{
+  "status": "six_candidates_ready_for_user_audition",
+  "raw_hashes_verified": true,
+  "raw_clipping_samples": 0,
+  "mp3_decode_passed": 6,
+  "independent_transcripts_checked": 6,
+  "transcript_review": "六条均覆盖日常陈述、问题、TokenDance/API业务句和猹与猹收尾，未发现明显漏句或截断；观察/观猹、词源/词元、一战式/一站式以及收尾部分含同音或分词转写差异，自动转写不能据此判定错音。",
+  "subjective_listening_accepted": false,
+  "asr_runtime": "[本地路径已省略]"
+}

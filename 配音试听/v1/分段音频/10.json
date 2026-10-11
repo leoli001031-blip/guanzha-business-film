@@ -1,0 +1,14 @@
+{
+  "status": "generated",
+  "index": 10,
+  "fingerprint": "7e145c9f17cfecac214132241b943a0711401225e749928262e0d5a25732cea3",
+  "text": "面向品牌与用户，我们通过与品牌方联名推出 Token 实体卡，把算力变成可分享、可体验的 AI 创造力。成为用户探索 AI、实现创意的新起点，让品牌与用户在创造中建立新的连接。",
+  "voice_id": "qingchunshaonv",
+  "instruction": "请用自然清晰、亲切而不夸张的中文女声讲解业务介绍，普通话，正常语速，语气轻松专业。完整忠实朗读正文，不增删文字，不读本指令，不加音乐或音效。猹读chá，观猹读guān chá，猹与猹读chá yǔ chá，爱猹收读ài chá shōu。AI、API、IP、MCN按英文字母读，TokenDance读Token Dance，TokenPay读Token Pay，Web Search按英语读。保持同一音色和自然的中英文衔接。",
+  "sample_rate": 24000,
+  "speed": 1.0,
+  "seconds": 16.44,
+  "peak": 0.89337158203125,
+  "file": "[项目目录]/配音试听/v1/分段音频/10.wav",
+  "elapsed": 9.3
+}

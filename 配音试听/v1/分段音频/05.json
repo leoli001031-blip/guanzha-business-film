@@ -1,0 +1,14 @@
+{
+  "status": "generated",
+  "index": 5,
+  "fingerprint": "f8e6cb14430fb73e041a4d24847670c5ad037db9dad67dacbb0992fbf5ae240b",
+  "text": "找到好产品之后，我们也希望体验和使用能更顺畅。通过「观猹登录」，用户可以用一个账号登录已接入的 AI 产品，省去反复注册的麻烦；通过「爱猹收」，个人开发者也能便捷接入收款，让好产品不仅被看见，也能带来收入。",
+  "voice_id": "qingchunshaonv",
+  "instruction": "请用自然清晰、亲切而不夸张的中文女声讲解业务介绍，普通话，正常语速，语气轻松专业。完整忠实朗读正文，不增删文字，不读本指令，不加音乐或音效。猹读chá，观猹读guān chá，猹与猹读chá yǔ chá，爱猹收读ài chá shōu。AI、API、IP、MCN按英文字母读，TokenDance读Token Dance，TokenPay读Token Pay，Web Search按英语读。保持同一音色和自然的中英文衔接。",
+  "sample_rate": 24000,
+  "speed": 1.0,
+  "seconds": 21.76,
+  "peak": 0.989990234375,
+  "file": "[项目目录]/配音试听/v1/分段音频/05.wav",
+  "elapsed": 8.84
+}
